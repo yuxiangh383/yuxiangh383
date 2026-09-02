@@ -1,8 +1,8 @@
-# Hi 👋, I'm XXX
+# Hi 👋, I'm Yuxiang Huang
 ## 🎓 About Me
 - 🔭 Current：PhD student in Statistics
 - 💻 Interests：LLM, Reinforcement Learning, Quantitative Finance
-- 📫 Email: xxx@xxx.com
+- 📫 Email: yx.huang@ruc.edu.cn
 
 ## 🛠️ Skills
 - Python, Pytorch, C++, Git, LaTeX
