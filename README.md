@@ -5,4 +5,4 @@
 - 📫 Email: yx.huang@ruc.edu.cn
 
 ## 🛠️ Skills
-- Python, Pytorch, C++, Git, LaTeX
+- Python, Pytorch, C++, Git
